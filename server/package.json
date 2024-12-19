@@ -7,7 +7,7 @@
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "Himanshu Goel",
+  "author": "Gaurav Kishore",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
